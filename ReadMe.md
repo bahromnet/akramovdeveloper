@@ -24,10 +24,6 @@
 <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-plain.svg" alt="JavaScript" width="45" height="45">
 <img src="https://www.svgrepo.com/download/354202/postman-icon.svg" alt="Postman" width="45" height="45">
 <img src="https://img.shields.io/badge/netlify-%23000000.svg" alt="Netlify" width="45" height="45"></p>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jamshid-net/jamshid-net/output/github-contribution-grid-snake-dark.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jamshid-net/jamshid-net/output/github-contribution-grid-snake.svg">
-</picture>
 
 
 
