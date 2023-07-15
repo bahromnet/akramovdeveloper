@@ -1,8 +1,8 @@
 <h1 align="center">👨‍💻 About Me 👨‍💻</h1>
 👋 Hello there! I'm Bahrom, .NET developer with experience in developing web applications and database managament. 🌱
-<br>
+<br><br>
 💻 I'm diving headfirst into the world of .NET programming, eagerly soaking up knowledge and honing my skills. I'm passionate about crafting robust and scalable applications using the incredible capabilities of .NET.
-
+<br><br>
 📚 Currently, I am a quick learner and have a passion for creating effecient and effective code. I am excited to work with a team of experienced developers to learn and contributed to projects.
 
 [![](https://visitcount.itsvg.in/api?id=akramovdeveloper&icon=5&color=4)](https://visitcount.itsvg.in)
