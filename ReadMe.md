@@ -7,7 +7,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=akramovdeveloper&icon=5&color=4)](https://visitcount.itsvg.in)
 
-# 💻 Tech Stack:
+# <h1>💻 Tech Stack </h1>
 <p align="center">
 <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/visualstudio/visualstudio-plain.svg" alt="vs" width="45" height="45">
 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C#" width="45" height="45">
@@ -27,7 +27,7 @@
 
 
 
-# 📊 GitHub Stats:
+# <h1>📊 GitHub Stats </h1>
 ![](https://github-readme-stats.vercel.app/api?username=akramovdeveloper&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=akramovdeveloper&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=akramovdeveloper&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
