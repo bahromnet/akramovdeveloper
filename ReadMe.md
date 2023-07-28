@@ -22,8 +22,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="45" height="45">
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" width="45" height="45">
 <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-plain.svg" alt="JavaScript" width="45" height="45">
-<img src="https://www.svgrepo.com/download/354202/postman-icon.svg" alt="Postman" width="45" height="45">
-<img src="https://img.shields.io/badge/netlify-%23000000.svg" alt="Netlify" width="45" height="45"></p>
+<img src="https://www.svgrepo.com/download/354202/postman-icon.svg" alt="Postman" width="45" height="45"></p>
 
 
 
