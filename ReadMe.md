@@ -23,10 +23,11 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" width="45" height="45">
 <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-plain.svg" alt="JavaScript" width="45" height="45">
 <img src="https://www.svgrepo.com/download/354202/postman-icon.svg" alt="Postman" width="45" height="45"></p>
-
-
+<p align="center">
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=akramovdeveloper&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=akramovdeveloper&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=akramovdeveloper&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+</p>
