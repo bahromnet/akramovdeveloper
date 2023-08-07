@@ -1,5 +1,5 @@
 <h1>👨‍💻 About Me:
-<div id="">
+<div id="" align="center">
   <img src="https://rubymaine.000webhostapp.com/rubymaine/programmer.gif" width="40%"/>
 </div></h1>
 👋 Hello there! I'm Bahrom, .NET developer with experience in developing web applications and database managament. 🌱
