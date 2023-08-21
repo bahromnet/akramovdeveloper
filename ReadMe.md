@@ -21,7 +21,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="45" height="45">
 <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MSSQL" width="45" height="45">
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" alt="Docker" width="45" height="45">
-<img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/BackendDevelopment/rabbitmq.svg" alt="RabbitMQ" width="45" height="45">
+<img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/BackendDevelopment/rabbitmq.svg" alt="RabbitMQ" width="40" height="40">
 <img src="https://cdn.worldvectorlogo.com/logos/blazor.svg" alt="Blazor" width="45" height="45">
 <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="45" height="45">
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="Typescript" width="45" height="45">  
